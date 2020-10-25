@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello, Doodlis! Tu Doodlis!
+          Hello, Doodlis! Tu Doodlis! Labradoodlis!
         </a>
       </header>
     </div>
